@@ -1,0 +1,1 @@
+此文件夹长期更新【可以帮助Claude Code等cli工具】高效编程的各类rule或prompt
