@@ -45,3 +45,5 @@ RIPER-5 的本质是将 AI 的角色从一个想法自由发散的创作者，�
 3.  **引导模式转换:** 在您认为 AI 已经充分完成当前阶段的任务后，使用文档中定义的明确信号（如 `ENTER INNOVATE MODE`）来引导其进入下一个模式。
 
 通过遵循这一协议，您可以将一个极其强大但有时难以预测的 AI，转变为一个可靠、严谨且高效的开发伙伴。
+
+*来源说明: 本提示词来源于 [robotlovehuman](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)。*
